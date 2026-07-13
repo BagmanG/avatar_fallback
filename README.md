@@ -10,9 +10,9 @@ from *any* `ImageProvider` and, if that fails, degrades by priority all the way
 down to initials on a deterministically chosen colored background — a terminal
 fallback that can never fail.
 
-![avatar_fallback initials and deterministic colors](doc/screenshots/initials.png)
+![avatar_fallback initials and deterministic colors](https://raw.githubusercontent.com/BagmanG/avatar_fallback/main/doc/screenshots/initials.png)
 
-![avatar_fallback group with overflow](doc/screenshots/group.png)
+![avatar_fallback group with overflow](https://raw.githubusercontent.com/BagmanG/avatar_fallback/main/doc/screenshots/group.png)
 
 ## Why another avatar package?
 
